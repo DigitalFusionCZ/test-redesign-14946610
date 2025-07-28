@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-28T15:05:35.093Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-line-house.png",
+      "file_name": "logo-line-house.png",
+      "description": "A minimalist line-art logo depicting the outline of a house with a chimney and two windows, colored in shades of green.",
+      "suggested_usage": "Use as site logo in header/footer.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-finished-house.jpg",
+      "file_name": "project-tanvald-finished-house.jpg",
+      "description": "A large, renovated house with a dark gabled roof and light-colored walls, surrounded by green grass and trees, with a person standing near the side entrance.",
+      "suggested_usage": "Feature image for a project showcase or 'About Us' section.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-residential-renovation.jpg",
+      "file_name": "project-residential-renovation.jpg",
+      "description": "A newly renovated residential house with a dark gray tiled roof and light-colored facade, with two cars parked on the street in front of a modern fence.",
+      "suggested_usage": "Feature image for a project showcase or services section.",
+      "size_bytes": 558411
+    }
+  ]
+}
